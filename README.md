@@ -14,6 +14,15 @@ https://sites.google.com/view/geeky-traveller/computer-vision/facial-landmarks-d
 
 # Run:
 Download the detector model [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
+# Dependencies
+You also need shape detector, you can download it by 
+```
+wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+```
+# Usage
+ ```
+ python facelandmarkdetect.py --shape-predictor shape_predictor_68_face_landmarks.dat --image images/face1.jpg
+```
 ```
 $ python facial_landmarks.py --shape-predictor shape_predictor_68_face_landmarks.dat --image <imagefilename>
 ```
