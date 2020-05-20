@@ -70,22 +70,11 @@ The results are awesome. We can see pretty accurate face landmark detections.
 
 Example input 1      Example output 1
 
-**Input**
+**Input**<img src="https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/input%20images/test5.jpg" width="250"/>**Output**<img src="https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/output%20images/Output_screenshot_test5.png" width="250"/>Example input 2
+Example output 2
 
-![Example input 2](https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/input%20images/test5.jpg)
-
-**Output**
-
-![Example output 2](https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/output%20images/Output_screenshot_test5.png)
-
-**Input**
-
-![Example input 3](https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/input%20images/test6.jpg)
-
-**Output**
-
-![Example output 3](https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/output%20images/Output_screenshot_test6.png)
-
+**Input**<img src="https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/input%20images/test6.jpg" width="250"/>**Output**<img src="https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/output%20images/Output_screenshot_test6.png" width="250"/>Example input 3
+Example output 3
 
 # Resources 
 
