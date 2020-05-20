@@ -65,12 +65,13 @@ $ python facial_landmarks.py --shape-predictor shape_predictor_68_face_landmarks
 The results are awesome. We can see pretty accurate face landmark detections.
 
 **Input**
+<img src="https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/input%20images/test4.jpg" width="250"/>
 
-![Example input 1](https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/input%20images/test4.jpg)
 
 **Output**
 
 ![Example output 1](https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/output%20images/Output_screenshot_text4.png)
+Example input 1
 
 **Input**
 
