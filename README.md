@@ -61,6 +61,34 @@ If you wish to output individual detections for facial landmarks (mouth, eyes, n
 ```
 $ python facial_landmarks.py --shape-predictor shape_predictor_68_face_landmarks.dat --image <imagefilename> --draw
 ```
+## **Results:**
+The results are awesome. We can see pretty accurate face landmark detections.
+
+**Input**
+
+![Example input 1](https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/input%20images/test4.jpg)
+
+**Output**
+
+![Example output 1](https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/output%20images/Output_screenshot_text4.png)
+
+**Input**
+
+![Example input 2](https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/input%20images/test5.jpg)
+
+**Output**
+
+![Example output 2](https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/output%20images/Output_screenshot_test5.png)
+
+**Input**
+
+![Example input 3](https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/input%20images/test6.jpg)
+
+**Output**
+
+![Example output 3](https://github.com/vaibhavhariaramani/Facial-Landmarks-Detection-with-DLIB/blob/master/output%20images/Output_screenshot_test6.png)
+
+
 # Resources 
 
 To learn more about these Resources you can Refer to some of these articles written by Me:-
